@@ -10,7 +10,7 @@
 .container {
     height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(9, 0, 77, 0.5), rgba(9, 0, 77, 0.5)), url('/images/background.png');
+    background-image: linear-gradient(rgba(9, 0, 77, 0.5), rgba(9, 0, 77, 0.5)), url('./images/background.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
